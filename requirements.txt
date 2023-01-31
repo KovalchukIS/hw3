@@ -1,0 +1,9 @@
+Django                   4.1.5
+django-admin-rangefilter 0.9.0
+django-dbml              0.6.0
+django-extensions        3.2.1
+django-money             3.0.0
+py-moneyed               2.0
+sqlparse                 0.4.3
+typing_extensions        4.4.0
+tzdata                   2022.7
